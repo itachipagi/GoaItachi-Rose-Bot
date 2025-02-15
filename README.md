@@ -8,7 +8,7 @@
 
 • [FayasKKD](https://github.com/FayasKKD/Bio) for this Repository 
 
-• [Paul Larsen](https://github.com/PaulSonOfLars) for his [tgbot](https://github.com/itachipagi/GoaItachi-Rose-Bot) Repository and [Miss Rose Bot](https://t.me/Goaitachi Rose_bot)
+• [Paul Larsen](https://github.com/PaulSonOfLars) for his [tgbot](https://github.com/itachipagi/GoaItachi-Rose-Bot) Repository and [Miss Rose Bot](https://t.me/Goa_itachi_bot)
 
 • [Dan Tes](https://github.com/delivrance) For his [Pyrogram](https://docs.pyrogram.org/) Library
 
